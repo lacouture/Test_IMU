@@ -1,0 +1,6 @@
+[submodule "micropython-fusion"]
+	path = micropython-fusion
+	url = ./micropython-fusion/
+[submodule "micropython-mpu9x50"]
+	path = micropython-mpu9x50
+	url = ./micropython-mpu9x50/
